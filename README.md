@@ -1,5 +1,5 @@
 # UAS_EDA
-EDA practice for 'Kapita Selekta dalam Komputasi' final exam 
+EDA practice for 'Kapita Selekta dalam Komputasi's final exam 
 
 ## About Dataset
 This is a copy of Gregory Smith's dataset that I am using to create a practice test for my Introduction to Data Science students.
